@@ -12,5 +12,3 @@ A personal travel website to plan and track a multi‑city trip through **Singap
 - ✅ Interactive packing list
 - 💰 Budget overview
 - 📸 Photo gallery & travel journal
-
-Built as a lightweight React site for easy planning, updates, and sharing.
